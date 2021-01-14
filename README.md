@@ -35,6 +35,10 @@ Run the script
 ```
 python noisy.py --config config.json
 ```
+or
+```
+python3 noisy.py --config config.json
+```
 
 The program can accept a number of command line arguments:
 ```
